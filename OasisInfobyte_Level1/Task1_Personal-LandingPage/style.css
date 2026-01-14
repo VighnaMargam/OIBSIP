@@ -1,0 +1,179 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Segoe UI", Arial, sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background:#0f172a;
+    color:#e5e7eb;
+    font-size:18px;
+    line-height:1.8;
+}
+
+/* ===== HEADER ===== */
+header{
+    position:sticky;
+    top:0;
+    background:#020617;
+    padding:25px 10%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border-bottom:1px solid #1e293b;
+}
+
+header h1{
+    font-size:30px;
+    color:#a78bfa;
+}
+
+nav a{
+    margin-left:30px;
+    text-decoration:none;
+    color:#e5e7eb;
+    font-weight:600;
+}
+
+nav a:hover{
+    color:#a78bfa;
+}
+
+/* ===== HERO ===== */
+#home{
+    padding:170px 10%;
+    text-align:center;
+    background:radial-gradient(circle at top,#1e1b4b,#020617);
+}
+
+#home h2{
+    font-size:54px;
+    margin-bottom:25px;
+}
+
+#home span{
+    color:#a78bfa;
+}
+
+#home p{
+    font-size:22px;
+    color:#cbd5f5;
+    max-width:820px;
+    margin:auto;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:50px;
+    padding:18px 48px;
+    background:#7c3aed;
+    color:white;
+    text-decoration:none;
+    border-radius:40px;
+    font-size:20px;
+    font-weight:600;
+    transition:all 0.3s;
+}
+
+.btn:hover{
+    background:#6d28d9;
+    transform:translateY(-2px);
+}
+
+/* ===== SECTION COMMON ===== */
+section{
+    padding:130px 10%;
+}
+
+.section-box{
+    display:flex;
+    align-items:center;
+    gap:70px;
+    flex-wrap:wrap;
+}
+
+.section-box.reverse{
+    flex-direction:row-reverse;
+}
+
+.text{
+    flex:1;
+}
+
+.text h2{
+    font-size:42px;
+    margin-bottom:25px;
+    color:#c7d2fe;
+}
+
+.text p{
+    font-size:20px;
+    color:#cbd5f5;
+}
+
+.image{
+    flex:1;
+    text-align:center;
+}
+
+.image img{
+    max-width:330px;
+    filter:drop-shadow(0 20px 40px rgba(0,0,0,0.6));
+    border-radius:15px;
+}
+
+/* ===== ABOUT ===== */
+#about{
+    background:#020617;
+}
+
+/* ===== SKILLS ===== */
+#skills{
+    background:#020617;
+}
+
+/* ===== CONTACT ===== */
+#contact{
+    background:#0f172a;
+    text-align:center;
+}
+
+#contact h2{
+    color:#c7d2fe;
+}
+
+#contact p{
+    color:#cbd5f5;
+    font-size:20px;
+}
+
+.contact-icons{
+    display:flex;
+    justify-content:center;
+    gap:45px;
+    margin-top:45px;
+}
+
+.contact-icons img{
+    width:55px;
+    filter:invert(1);
+    transition:transform 0.3s;
+}
+
+.contact-icons img:hover{
+    transform:scale(1.2);
+}
+
+/* ===== FOOTER ===== */
+footer{
+    background:#020617;
+    color:#94a3b8;
+    text-align:center;
+    padding:30px;
+    font-size:16px;
+}
