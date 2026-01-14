@@ -24,22 +24,13 @@ Web Development and Designing Intern – Oasis Infobyte
 
 ## 📂 Projects – Level 1
 
-### 🔹 Task 1: Landing Page
-**Description:** Personal landing page showcasing skills, about, and contact sections.  
-**Live Demo:**  
-[https://vighnamargam.github.io/OIBSIP/Level-1/Task-1-Landing-Page/](https://vighnamargam.github.io/OIBSIP/Level-1/Task-1-Landing-Page/)
+Click the links below to view the live versions of each project:
 
-### 🔹 Task 2: Personal Portfolio
-**Description:** Portfolio page to display your projects, skills, and resume.  
-**Live Demo:**  
-[https://vighnamargam.github.io/OIBSIP/Level-1/Task-2-Portfolio/](https://vighnamargam.github.io/OIBSIP/Level-1/Task-2-Portfolio/)
-
-### 🔹 Task 3: Calculator
-**Description:** Simple interactive calculator using HTML, CSS, and JavaScript.  
-**Live Demo:**  
-[https://vighnamargam.github.io/OIBSIP/Level-1/Task-3-Calculator/](https://vighnamargam.github.io/OIBSIP/Level-1/Task-3-Calculator/)
-
----
+| Task | Project Name | Live Link |
+| :--- | :--- | :--- |
+| **01** | Personal Landing Page | [View Live](https://vighnamargam.github.io/OIBSIP/Task1_Personal-LandingPage/) |
+| **02** | Personal Portfolio | [View Live](https://vighnamargam.github.io/OIBSIP/Task2_Portfolio/) |
+| **03** | Temperature Converter | [View Live](https://vighnamargam.github.io/OIBSIP/Task3-Temperature-Converter/) |
 
 ## 🌐 Main Live Page
 [https://vighnamargam.github.io/OIBSIP/](https://vighnamargam.github.io/OIBSIP/)
