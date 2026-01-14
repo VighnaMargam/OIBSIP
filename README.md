@@ -1,30 +1,20 @@
-
 # OIBSIP – Oasis Infobyte Internship
 
-## 👩‍💻 Author
-**Saivighna Margam**  
-Web Development and Designing Intern – Oasis Infobyte
+## 👨‍💻 Author
+**Saivighna Margam** *Web Development and Designing Intern – Oasis Infobyte*
 
 ---
 
 ## 📌 Internship Details
-- **Program:** Web Development and Designing Internship  
-- **Duration:** One Month  
-- **Organization:** Oasis Infobyte  
-- **Batch:** AICTE Internship Program  
+* **Program:** Web Development and Designing Internship
+* **Duration:** One Month
+* **Organization:** Oasis Infobyte
+* **Batch:** AICTE Internship Program
 
 ---
 
-## 🛠️ Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
-
----
-
-## 📂 Projects – Level 1
-
-Click the links below to view the live versions of each project:
+## 🚀 Live Project Links
+Click on the links below to view the live deployment of each task:
 
 | Task | Project Name | Live Link |
 | :--- | :--- | :--- |
@@ -32,23 +22,22 @@ Click the links below to view the live versions of each project:
 | **02** | Personal Portfolio | [View Live](https://vighnamargam.github.io/OIBSIP/Task2_Portfolio/) |
 | **03** | Temperature Converter | [View Live](https://vighnamargam.github.io/OIBSIP/Task3-Temperature-Converter/) |
 
-## 🌐 Main Live Page
-[https://vighnamargam.github.io/OIBSIP/](https://vighnamargam.github.io/OIBSIP/)
+---
+
+## 🛠️ Technologies Used
+* **HTML** - Page Structure
+* **CSS** - Styling & Design
+* **JavaScript** - Interactivity & Logic
 
 ---
 
-## 📄 Declaration
-This repository contains **original work** completed as part of the  
-**Oasis Infobyte Web Development and Designing Internship Program**.
+## 📂 Projects – Level 1
 
-All projects are created **for learning and educational purposes only**.
+### Task 1: Personal Landing Page
+A clean and responsive landing page built to showcase basic design and layout skills using HTML and CSS.
 
----
+### Task 2: Personal Portfolio
+A comprehensive personal portfolio website that includes project details, skill sets, and a professional resume.
 
-## 🔗 Connect With Me
-- **GitHub:** [https://github.com/vighnamargam](https://github.com/vighnamargam)  
-- **LinkedIn:** [https://www.linkedin.com/in/vighna-margam-2b2a90290](https://www.linkedin.com/in/vighna-margam-2b2a90290)  
-
----
-
-© 2025 **Saivighna Margam** | Oasis Infobyte Internship
+### Task 3: Temperature Converter
+A functional web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin in real-time.
